@@ -60,16 +60,3 @@ button.upload_btn:hover {
   color: #000;
   background-color: #fff;
 }
-
-/* @media screen and (max-width: 600px) {
-  .right-container {
-    padding: 2rem 3rem;
-    transform: translate(-50%, -50%);
-    top: 50%;
-    /* margin: 5rem; */
-    left: 50%;
-  }
-  .right {
-    background-color: red;
-  }
-} */
